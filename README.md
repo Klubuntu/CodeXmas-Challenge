@@ -1,2 +1,21 @@
-# CodeXmas-Challenge
-Codes for Christmas Coding Daily Challenge
+```
+ $$$$$$\                  $$\                 $$\   $$\                                   
+$$  __$$\                 $$ |                $$ |  $$ |                                  
+$$ /  \__| $$$$$$\   $$$$$$$ | $$$$$$\        \$$\ $$  |$$$$$$\$$$$\   $$$$$$\   $$$$$$$\ 
+$$ |      $$  __$$\ $$  __$$ |$$  __$$\        \$$$$  / $$  _$$  _$$\  \____$$\ $$  _____|
+$$ |      $$ /  $$ |$$ /  $$ |$$$$$$$$ |       $$  $$<  $$ / $$ / $$ | $$$$$$$ |\$$$$$$\  
+$$ |  $$\ $$ |  $$ |$$ |  $$ |$$   ____|      $$  /\$$\ $$ | $$ | $$ |$$  __$$ | \____$$\ 
+\$$$$$$  |\$$$$$$  |\$$$$$$$ |\$$$$$$$\       $$ /  $$ |$$ | $$ | $$ |\$$$$$$$ |$$$$$$$  |
+ \______/  \______/  \_______| \_______|      \__|  \__|\__| \__| \__| \_______|\_______/ 
+                                                                                            
+```
+                                                                                          
+### Repository for CodeXmas Challenge
+
+
+## Stack
+- Day 1: Python (**ASCII Text**)
+- Day 2: Rust (**Christmas tree generator**)
+
+## DIY Videos
+- Playlist: https://www.youtube.com/playlist?list=PL8qG7adReCEC7DWUAQ9VO5snFcyjifUWE
