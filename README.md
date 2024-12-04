@@ -10,7 +10,7 @@ $$ |  $$\ $$ |  $$ |$$ |  $$ |$$   ____|      $$  /\$$\ $$ | $$ | $$ |$$  __$$ |
                                                                                             
 ```
                                                                                           
-### Repository for CodeXmas Challenge
+### Repository for Daily Code Challenge
 
 
 ## Stack
